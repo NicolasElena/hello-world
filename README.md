@@ -2,7 +2,8 @@
 
 Oi gente
 
-Nicolas aqui, não sei falar de mim mesmo 
+Nicolas aqui, não sei falar de mim mesmo
+
 Estou gostando bastante de Node.js e espero concluir os desafios da semana omnistack 10.0
 
 
